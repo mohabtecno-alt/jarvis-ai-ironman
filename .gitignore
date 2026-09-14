@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project specific
+jarvis_data.json
+devices.json
+images/
+*.log
+.env
+local_settings.py
+
+# OS
+.DS_Store
+Thumbs.db
+.windows-build-tools/
+
+# Audio files
+*.wav
+*.mp3
+
+# Cache
+.cache/
+*.cache
